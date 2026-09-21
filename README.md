@@ -4,9 +4,9 @@ This repository archives the dataset and analysis code for the study *"Machine L
 
 ## Authors
 
-- Nathan Umberger — Purdue University
+- Nathan Umberger — Purdue University (ORCID: 0009-0004-6601-4699)
 - Rafat Mahmud Hridoy — The Pennsylvania State University (ORCID: 0000-0002-4770-9645)
-- Azad M. Madni, PhD — University of Southern California
+- Azad M. Madni, PhD — University of Southern California (ORCID: 0000-0001-5225-0034)
 - Soundar Kumara, PhD — The Pennsylvania State University (ORCID: 0000-0002-7941-8818)
 
 ## Contents
