@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite it as below."
+title: "Machine Learning for Healthcare Accessibility: Developing a Vulnerability Index for U.S. Pharmacy Deserts — Data and Code"
+type: dataset
+authors:
+  - given-names: Nathan
+    family-names: Umberger
+    affiliation: Purdue University
+  - given-names: Rafat Mahmud
+    family-names: Hridoy
+    affiliation: The Pennsylvania State University
+    orcid: "https://orcid.org/0000-0002-4770-9645"
+  - given-names: Azad M.
+    family-names: Madni
+    affiliation: University of Southern California
+    orcid: "https://orcid.org/0000-0001-5225-0034"
+  - given-names: Soundar
+    family-names: Kumara
+    affiliation: The Pennsylvania State University
+    orcid: "https://orcid.org/0000-0002-7941-8818"
+license: CC-BY-4.0
+repository-code: "REPLACE-WITH-ZENODO-DOI-URL-AFTER-UPLOAD"
+keywords:
+  - pharmacy deserts
+  - machine learning
+  - healthcare accessibility
+  - XGBoost
+  - SHAP
+  - vulnerability index
