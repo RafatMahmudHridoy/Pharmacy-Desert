@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite it as below."
+type: dataset
+title: "Machine Learning for Healthcare Accessibility: Developing a Pharmacy Desert Index for U.S. Counties — Data and Code"
+version: 3.0.0
+date-released: 2026-11-16
+license: CC-BY-4.0
+repository-code: "https://github.com/RafatMahmudHridoy/Pharmacy-Desert"
+abstract: >-
+  Dataset and analysis notebook for a study that classifies the current
+  pharmacy-desert status of 734 counties in seven U.S. states with machine
+  learning and builds a descriptive Pharmacy Desert Index (PDI) from the SHAP
+  importance of the selected XGBoost model. Predictors come from the 2021
+  County Health Rankings release; the outcome follows Nguyen et al.'s county
+  definition (more than 50% of the population living in pharmacy-desert census
+  tracts). Version 3.0.0 supersedes versions 1.0.0 and 2.0.0.
+keywords:
+  - pharmacy deserts
+  - machine learning
+  - XGBoost
+  - SHAP
+  - composite index
+  - healthcare access
+  - county-level analysis
+authors:
+  - family-names: Hridoy
+    given-names: Rafat Mahmud
+    affiliation: The Pennsylvania State University
+    orcid: "https://orcid.org/0000-0002-4770-9645"
+  - family-names: Umberger
+    given-names: Nathan
+    affiliation: Purdue University
+    orcid: "https://orcid.org/0009-0004-6601-4699"
+  - family-names: Madni
+    given-names: Azad M.
+    affiliation: University of Southern California
+    orcid: "https://orcid.org/0000-0001-5225-0034"
+  - family-names: Kumara
+    given-names: Soundar
+    affiliation: The Pennsylvania State University
+    orcid: "https://orcid.org/0000-0002-7941-8818"
